@@ -1,0 +1,14 @@
+.forma{
+    display: flex;
+    flex-wrap: wrap;
+    width: 95%;
+    height: 360px;
+}
+
+.header{
+    background-color: #BE33FF;
+    color:#fff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
