@@ -36,7 +36,6 @@
 }
 
 #boss {
-  width: 30%;
   height: 280px;
   display: flex;
   flex-wrap: wrap;
@@ -108,5 +107,10 @@ ol .fuente {
 }
 
 #cuidado {
-  color: darkred;
+  color: rgb(248, 15, 15);
+}
+
+.container2 {
+  margin: 10px;
+  padding: 10px;
 }/*# sourceMappingURL=estilos.css.map */
