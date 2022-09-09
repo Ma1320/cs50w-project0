@@ -8,28 +8,28 @@
     text-align: center
 }
 
-.uno {
+#uno {
     @extend %message;
     background-color: rgb(223, 226, 43);
 }
 
-.dos {
+#dos {
     @extend %message;
     background-color: rgb(223, 226, 43);
 }
 
-.tres {
+#tres {
     @extend %message;
     background-color: aqua;
 
 }
 
-.cuatro {
+#cuatro {
     @extend %message;
     background-color: blueviolet;
 }
 
-.cinco {
+#cinco {
     @extend %message;
     background-color: rgb(8, 236, 19);
 }
